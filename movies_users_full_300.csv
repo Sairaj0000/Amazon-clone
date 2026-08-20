@@ -1,0 +1,301 @@
+userId,age,ageGroup,gender,occupation,city,state,movieTitle,genres,cast,director,rating,likeDislike,timestamp
+269,31,25-34,F,librarian,Columbus,Ohio,Sabrina (1995),Comedy|Romance,Julia Ormond|Harrison Ford|Nancy Marchand|Greg Kinnear,Sydney Pollack,1,dislike,1998-04-01 17:15:01
+22,25,25-34,M,writer,Saint matthews,Kentucky,Die Hard: With a Vengeance (1995),Action|Thriller,Bruce Willis|Samuel L. Jackson|Jeremy Irons|Graham Greene,John McTiernan,5,like,1997-11-07 07:36:24
+459,22,18-24,M,student,Columbia,South carolina,French Twist (Gazon maudit) (1995),Comedy|Romance,Ticky Holgado|Alain Chabat|Josiane Balasko|Victoria Abril,Josiane Balasko,2,dislike,1997-11-15 03:02:19
+393,19,18-24,M,student,Nampa,Idaho,Ace Ventura: When Nature Calls (1995),Comedy,Jim Carrey|Ian McNeice|Simon Callow|Maynard Eziashi,Steve Oedekerk,2,dislike,1998-03-12 19:32:19
+332,20,18-24,M,student,Lexington,Kentucky,Waterworld (1995),Action|Adventure,Kevin Costner|R.D. Call|Rick Aviles|Chaim Jeraffi,Kevin Reynolds,3,dislike,1998-02-24 22:47:40
+796,32,25-34,F,writer,Saint petersburg,Florida,"American President, The (1995)",Comedy|Drama|Romance,Martin Sheen|Michael J. Fox|Michael Douglas|Annette Bening,Rob Reiner,5,like,1998-04-16 21:19:04
+42,30,25-34,M,administrator,Selinsgrove,Pennsylvania,Star Trek: Generations (1994),Action|Adventure|Sci-Fi,Patrick Stewart|Brent Spiner|Jonathan Frakes|LeVar Burton,David Carson,4,like,1997-12-03 00:22:28
+75,24,18-24,M,entertainment,East brunswick,New jersey,Father of the Bride Part II (1995),Comedy,Steve Martin|Kimberly Williams-Paisley|Diane Keaton|Martin Short,Charles Shyer,2,dislike,1998-01-06 01:31:49
+474,51,45-54,M,executive,Fresno,California,Dead Man Walking (1995),Drama,Susan Sarandon|Raymond J. Barry|Robert Prosky|Sean Penn,Tim Robbins,5,like,1998-02-19 19:23:23
+435,24,18-24,M,engineer,Elk grove villag,Illinois,"Net, The (1995)",Sci-Fi|Thriller,Sandra Bullock|Diane Baker|Jeremy Northam|Dennis Miller,Irwin Winkler,2,dislike,1998-01-07 00:38:29
+897,30,25-34,M,other,Delray beach,Florida,Screamers (1995),Sci-Fi,Peter Weller|Andrew Lauer|Jennifer Rubin|Roy Dupuis,Christian Duguay,5,like,1997-11-20 02:40:09
+119,32,25-34,M,programmer,Bavaria,Kansas,Apollo 13 (1995),Action|Drama|Thriller,Bill Paxton|Kevin Bacon|Tom Hanks|Gary Sinise,Ron Howard,5,like,1997-09-20 19:00:22
+541,19,18-24,F,student,Brigham city,Utah,"Santa Clause, The (1994)",Children|Comedy,Tim Allen|Wendy Crewson|Judge Reinhold|Eric Lloyd,John Pasquin,3,dislike,1998-01-03 22:20:49
+102,38,35-44,M,programmer,Grantville,Georgia,Stargate (1994),Action|Adventure|Sci-Fi,Kurt Russell|Jaye Davidson|James Spader|Viveca Lindfors,Roland Emmerich,3,dislike,1998-03-02 01:23:32
+401,46,45-54,F,healthcare,Murray,Utah,Dolores Claiborne (1994),Drama|Thriller,Kathy Bates|Judy Parfitt|Christopher Plummer|Jennifer Jason Leigh,Taylor Hackford,4,like,1998-03-27 21:07:48
+104,27,25-34,M,student,Lauderdale,Minnesota,Richard III (1995),Drama|War,Ian McKellen|Jim Broadbent|Annette Bening|Robert Downey Jr.,Richard Loncraine,2,dislike,1998-02-26 03:56:53
+522,36,35-44,M,engineer,Brooklyn center,Minnesota,Hoop Dreams (1994),Documentary,Dick Vitale|Steve James|Arthur Agee|William Gates,Steve James,4,like,1997-10-16 00:17:00
+936,24,18-24,M,other,Winter park,Florida,"Birdcage, The (1996)",Comedy,Nathan Lane|Dianne Wiest|Robin Williams|Gene Hackman,Mike Nichols,4,like,1998-02-07 06:33:51
+44,26,25-34,M,technician,Nora,Indiana,"Shawshank Redemption, The (1994)",Drama,Tim Robbins|William Sadler|Bob Gunton|Morgan Freeman,Frank Darabont,5,like,1997-11-01 01:31:55
+77,30,25-34,M,technician,Union,South carolina,Apollo 13 (1995),Action|Drama|Thriller,Bill Paxton|Kevin Bacon|Tom Hanks|Gary Sinise,Ron Howard,5,like,1998-01-14 04:44:21
+846,27,25-34,M,lawyer,Jeffersonville,Indiana,Clerks (1994),Comedy,Jason Mewes|Brian O'Halloran|Jeff Anderson|Marilyn Ghigliotti,Kevin Smith,5,like,1998-01-04 21:16:46
+936,24,18-24,M,other,Winter park,Florida,City Hall (1996),Drama|Thriller,Al Pacino|John Cusack|Bridget Fonda|Danny Aiello,Harold Becker,2,dislike,1998-02-07 06:33:11
+55,37,35-44,M,programmer,New salem,Massachusetts,Pulp Fiction (1994),Crime|Drama,Tim Roth|John Travolta|Laura Lovelace|Samuel L. Jackson,Quentin Tarantino,4,like,1997-10-30 01:53:17
+110,19,18-24,M,student,College station,Texas,Die Hard: With a Vengeance (1995),Action|Thriller,Bruce Willis|Samuel L. Jackson|Jeremy Irons|Graham Greene,John McTiernan,3,dislike,1998-02-09 01:44:24
+109,29,25-34,M,other,Richfield,Minnesota,"Usual Suspects, The (1995)",Crime|Thriller,Gabriel Byrne|Stephen Baldwin|Benicio Del Toro|Kevin Pollak,Bryan Singer,4,like,1997-11-26 20:52:22
+234,60,55-64,M,retired,Berkeley,California,Dead Man Walking (1995),Drama,Susan Sarandon|Raymond J. Barry|Robert Prosky|Sean Penn,Tim Robbins,3,dislike,1998-03-30 03:14:49
+85,51,45-54,M,educator,Washington,District of columbia,Pulp Fiction (1994),Crime|Drama,Tim Roth|John Travolta|Laura Lovelace|Samuel L. Jackson,Quentin Tarantino,4,like,1997-11-13 20:39:47
+52,18,18-24,F,student,Saint paul,Minnesota,Sense and Sensibility (1995),Drama|Romance,James Fleet|Kate Winslet|Tom Wilkinson|Harriet Walter,Ang Lee,4,like,1997-12-24 00:12:08
+276,21,18-24,M,student,Santa cruz,California,Taxi Driver (1976),Drama|Thriller,Diahnne Abbott|Gino Ardito|Frank Adu|Victor Argo,Martin Scorsese,5,like,1997-09-20 20:31:07
+911,37,35-44,F,writer,Milwaukee,Wisconsin,Muppet Treasure Island (1996),Action|Adventure|Comedy|Musical|Thriller,Tim Curry|Billy Connolly|Jennifer Saunders|Kevin Bishop,Brian Henson,4,like,1998-04-17 19:09:04
+542,21,18-24,M,student,Downers grove,Illinois,Flirting With Disaster (1996),Comedy,Mary Tyler Moore|Téa Leoni|Patricia Arquette|Ben Stiller,David O. Russell,4,like,1998-02-03 19:06:58
+269,31,25-34,F,librarian,Columbus,Ohio,Don Juan DeMarco (1995),Comedy|Drama|Romance,Johnny Depp|Marlon Brando|Faye Dunaway|Géraldine Pailhas,Jeremy Leven,3,dislike,1998-04-01 16:35:47
+777,63,55-64,M,programmer,Andover,Massachusetts,Dead Man Walking (1995),Drama,Susan Sarandon|Raymond J. Barry|Robert Prosky|Sean Penn,Tim Robbins,5,like,1997-10-04 15:36:20
+18,35,35-44,F,other,Nashville,Tennessee,Miracle on 34th Street (1994),Drama,Richard Attenborough|J.T. Walsh|Dylan McDermott|Elizabeth Perkins,Les Mayfield,3,dislike,1997-11-21 17:03:24
+504,40,35-44,F,writer,San diego,California,Boys on the Side (1995),Comedy|Drama,Whoopi Goldberg|Drew Barrymore|Mary-Louise Parker|Matthew McConaughey,Herbert Ross,4,like,1998-02-19 17:54:56
+301,24,18-24,M,student,Edina,Minnesota,Johnny Mnemonic (1995),Action|Sci-Fi|Thriller,Takeshi Kitano|Keanu Reeves|Ice-T|Dina Meyer,Robert Longo,2,dislike,1997-12-14 06:00:56
+185,53,45-54,F,librarian,Eugene,Oregon,Taxi Driver (1976),Drama|Thriller,Diahnne Abbott|Gino Ardito|Frank Adu|Victor Argo,Martin Scorsese,4,like,1997-12-30 23:24:09
+244,28,25-34,M,technician,Fort collins,Colorado,From Dusk Till Dawn (1996),Action|Comedy|Crime|Horror|Thriller,George Clooney|Quentin Tarantino|Harvey Keitel|Juliette Lewis,Robert Rodriguez,2,dislike,1997-11-27 05:06:45
+280,30,25-34,F,librarian,University,Virginia,Johnny Mnemonic (1995),Action|Sci-Fi|Thriller,Takeshi Kitano|Keanu Reeves|Ice-T|Dina Meyer,Robert Longo,3,dislike,1998-04-04 15:02:02
+883,49,45-54,M,librarian,West des moines,Iowa,Forget Paris (1995),Comedy|Romance,Billy Crystal|Joe Mantegna|Debra Winger|Cynthia Stevenson,Billy Crystal,3,dislike,1998-04-04 12:56:43
+130,20,18-24,M,none,De kalb,Illinois,White Man's Burden (1995),Drama,Harry Belafonte|John Travolta|Kelly Lynch|Margaret Avery,Desmond Nakano,4,like,1998-02-23 05:32:10
+479,30,25-34,M,educator,Minneapolis,Minnesota,Braveheart (1995),Action|Drama|War,James Robinson|Sandy Nelson|Sean Lawlor|James Cosmo,Mel Gibson,4,like,1997-11-13 22:48:00
+239,39,35-44,M,artist,Fair oaks,California,Pulp Fiction (1994),Crime|Drama,Tim Roth|John Travolta|Laura Lovelace|Samuel L. Jackson,Quentin Tarantino,4,like,1998-03-06 10:17:58
+87,47,45-54,M,administrator,Reno,Nevada,Down Periscope (1996),Comedy,Lauren Holly|Kelsey Grammer|Harry Dean Stanton|Rob Schneider,David S. Ward,4,like,1997-11-18 18:17:23
+477,23,18-24,F,student,Dorchester,Massachusetts,Don Juan DeMarco (1995),Comedy|Drama|Romance,Johnny Depp|Marlon Brando|Faye Dunaway|Géraldine Pailhas,Jeremy Leven,4,like,1997-10-04 04:59:51
+896,28,25-34,M,writer,Burbank,California,Sense and Sensibility (1995),Drama|Romance,James Fleet|Kate Winslet|Tom Wilkinson|Harriet Walter,Ang Lee,4,like,1998-02-11 00:58:33
+256,35,35-44,F,none,Brandon,Mississippi,Waterworld (1995),Action|Adventure,Kevin Costner|R.D. Call|Rick Aviles|Chaim Jeraffi,Kevin Reynolds,4,like,1997-12-15 05:44:04
+378,35,35-44,M,student,Pascoag,Rhode island,Dolores Claiborne (1994),Drama|Thriller,Kathy Bates|Judy Parfitt|Christopher Plummer|Jennifer Jason Leigh,Taylor Hackford,3,dislike,1997-11-20 19:43:57
+303,19,18-24,M,student,Unknown,Unknown,"Basketball Diaries, The (1995)",Drama,Leonardo DiCaprio|Marilyn Sokol|Lorraine Bracco|James Madio,Scott Kalvert,3,dislike,1997-11-14 05:22:28
+423,64,55-64,M,other,North hollywood,California,Leaving Las Vegas (1995),Drama|Romance,Nicolas Cage|Elisabeth Shue|Julian Sands|Richard Lewis,Mike Figgis,5,like,1998-04-01 01:53:22
+221,19,18-24,M,student,Saint leonard,Maryland,Die Hard: With a Vengeance (1995),Action|Thriller,Bruce Willis|Samuel L. Jackson|Jeremy Irons|Graham Greene,John McTiernan,4,like,1997-09-26 03:56:23
+880,13,Under 18,M,student,Boise,Idaho,Braveheart (1995),Action|Drama|War,James Robinson|Sandy Nelson|Sean Lawlor|James Cosmo,Mel Gibson,4,like,1997-11-22 03:01:35
+262,19,18-24,F,student,San antonio,Texas,Mr. Wrong (1996),Comedy,Dean Stockwell|Joan Cusack|Bill Pullman|Ellen DeGeneres,Nick Castle,2,dislike,1997-11-17 18:32:16
+761,17,Under 18,M,student,Salem,Oregon,Nixon (1995),Drama,Ed Harris|Anthony Hopkins|Powers Boothe|Joan Allen,Oliver Stone,1,dislike,1997-10-07 02:17:03
+62,27,25-34,F,administrator,Portland,Oregon,Mighty Aphrodite (1995),Comedy,Woody Allen|Mira Sorvino|Rene Ceballos|George De La Pena,Woody Allen,4,like,1997-11-12 22:10:34
+7,57,55-64,M,administrator,Granada hills,California,Money Train (1995),Action,Wesley Snipes|Robert Blake|Woody Harrelson|Jennifer Lopez,Joseph Ruben,3,dislike,1998-04-09 14:42:52
+87,47,45-54,M,administrator,Reno,Nevada,Pulp Fiction (1994),Crime|Drama,Tim Roth|John Travolta|Laura Lovelace|Samuel L. Jackson,Quentin Tarantino,4,like,1997-11-18 18:08:44
+405,22,18-24,F,healthcare,New york,New york,Mad Love (1995),Drama|Romance,Chris O'Donnell|Richard Chaim|Drew Barrymore|Matthew Lillard,Antonia Bird,2,dislike,1998-01-23 09:14:19
+174,30,25-34,F,administrator,Marion,Iowa,Circle of Friends (1995),Drama|Romance,Chris O'Donnell|Saffron Burrows|Minnie Driver|Geraldine O'Rawe,Pat O'Connor,5,like,1998-02-02 20:59:29
+460,44,35-44,F,other,Chicago,Illinois,Leaving Las Vegas (1995),Drama|Romance,Nicolas Cage|Elisabeth Shue|Julian Sands|Richard Lewis,Mike Figgis,5,like,1997-12-23 21:26:58
+23,30,25-34,F,artist,Ypsilanti,Michigan,Babe (1995),Children|Comedy|Drama,Hugo Weaving|Christine Cavanaugh|Danny Mann|Miriam Margolyes,Chris Noonan,4,like,1997-09-20 19:57:54
+64,32,25-34,M,educator,Columbus,Ohio,Braveheart (1995),Action|Drama|War,James Robinson|Sandy Nelson|Sean Lawlor|James Cosmo,Mel Gibson,4,like,1998-03-12 21:16:16
+614,54,45-54,M,educator,Denver,Colorado,Toy Story (1995),Animation|Children|Comedy,Jim Varney|Tim Allen|Tom Hanks|Don Rickles,John Lasseter,5,like,1997-11-13 23:34:53
+711,22,18-24,F,student,Carson,Pennsylvania,Losing Isaiah (1995),Drama,Jessica Lange|Cuba Gooding Jr.|David Strathairn|Halle Berry,Stephen Gyllenhaal,3,dislike,1997-11-20 02:46:37
+13,47,45-54,M,educator,Columbia,South carolina,GoldenEye (1995),Action|Adventure|Thriller,Pierce Brosnan|Famke Janssen|Sean Bean|Izabella Scorupco,Martin Campbell,3,dislike,1997-12-17 22:27:30
+92,32,25-34,M,entertainment,Fort collins,Colorado,Get Shorty (1995),Action|Comedy|Drama,Danny DeVito|Gene Hackman|Rene Russo|John Travolta,Barry Sonnenfeld,4,like,1997-09-30 21:17:02
+393,19,18-24,M,student,Nampa,Idaho,Johnny Mnemonic (1995),Action|Sci-Fi|Thriller,Takeshi Kitano|Keanu Reeves|Ice-T|Dina Meyer,Robert Longo,3,dislike,1998-03-12 19:43:13
+230,28,25-34,F,student,Kendall,New york,Richard III (1995),Drama|War,Ian McKellen|Jim Broadbent|Annette Bening|Robert Downey Jr.,Richard Loncraine,3,dislike,1997-11-25 19:18:50
+487,22,18-24,M,engineer,San diego,California,Dangerous Minds (1995),Drama,Michelle Pfeiffer|Robin Bartlett|George Dzundza|Courtney B. Vance,John N. Smith,3,dislike,1997-12-31 01:15:29
+634,39,35-44,M,engineer,Unknown,Unknown,Beautiful Girls (1996),Drama,Annabeth Gish|Matt Dillon|Lauren Holly|Noah Emmerich,Ted Demme,3,dislike,1997-11-17 17:27:47
+528,18,18-24,M,student,Saint paul,Minnesota,Pulp Fiction (1994),Crime|Drama,Tim Roth|John Travolta|Laura Lovelace|Samuel L. Jackson,Quentin Tarantino,3,dislike,1998-01-29 19:17:08
+639,42,35-44,F,librarian,Clifton park,New york,Circle of Friends (1995),Drama|Romance,Chris O'Donnell|Saffron Burrows|Minnie Driver|Geraldine O'Rawe,Pat O'Connor,3,dislike,1998-03-30 06:33:01
+658,33,25-34,M,programmer,Costa mesa,California,Kids (1995),Drama,Leo Fitzpatrick|Joseph Chan|Sarah Henderson|Justin Pierce,Larry Clark,3,dislike,1997-09-25 00:33:11
+406,52,45-54,M,educator,Santa barbara,California,Hoop Dreams (1994),Documentary,Dick Vitale|Steve James|Arthur Agee|William Gates,Steve James,5,like,1997-11-17 18:53:31
+671,21,18-24,M,programmer,Unknown,Unknown,From Dusk Till Dawn (1996),Action|Comedy|Crime|Horror|Thriller,George Clooney|Quentin Tarantino|Harvey Keitel|Juliette Lewis,Robert Rodriguez,4,like,1997-12-31 05:41:29
+314,20,18-24,F,student,Voorhees,New jersey,"Big Green, The (1995)",Children|Comedy,Olivia d'Abo|Jay O. Sanders|Steve Guttenberg|John Terry,Holly Goldberg Sloan,4,like,1997-10-26 18:42:34
+311,32,25-34,M,technician,Norman,Oklahoma,"Shawshank Redemption, The (1994)",Drama,Tim Robbins|William Sadler|Bob Gunton|Morgan Freeman,Frank Darabont,5,like,1998-01-09 16:48:22
+659,31,25-34,M,educator,Unknown,Unknown,"Shawshank Redemption, The (1994)",Drama,Tim Robbins|William Sadler|Bob Gunton|Morgan Freeman,Frank Darabont,4,like,1998-03-31 22:42:32
+393,19,18-24,M,student,Nampa,Idaho,Bed of Roses (1996),Drama|Romance,Christian Slater|Mary Stuart Masterson|Josh Brolin|Pamela Adlon,Michael Goldenberg,4,like,1998-02-17 19:41:13
+793,22,18-24,M,student,Tempe,Arizona,Nixon (1995),Drama,Ed Harris|Anthony Hopkins|Powers Boothe|Joan Allen,Oliver Stone,3,dislike,1997-09-24 12:30:43
+397,17,Under 18,M,student,Chapel hill,North carolina,Babe (1995),Children|Comedy|Drama,Hugo Weaving|Christine Cavanaugh|Danny Mann|Miriam Margolyes,Chris Noonan,4,like,1998-01-21 02:31:53
+894,47,45-54,M,educator,Stillwater,Oklahoma,Othello (1995),Drama,Irène Jacob|Laurence Fishburne|Kenneth Branagh|Nathaniel Parker,Oliver Parker,4,like,1997-11-25 00:02:57
+6,42,35-44,M,executive,Seattle,Washington,"Secret of Roan Inish, The (1994)",Adventure,Pat Slowey|Dave Duffy|Declan Hannigan|Jeni Courtney,John Sayles,4,like,1997-12-31 20:55:13
+109,29,25-34,M,other,Richfield,Minnesota,Dead Man Walking (1995),Drama,Susan Sarandon|Raymond J. Barry|Robert Prosky|Sean Penn,Tim Robbins,3,dislike,1997-11-26 17:16:47
+429,27,25-34,M,student,Columbia,South carolina,Don Juan DeMarco (1995),Comedy|Drama|Romance,Johnny Depp|Marlon Brando|Faye Dunaway|Géraldine Pailhas,Jeremy Leven,3,dislike,1997-12-17 19:01:34
+399,25,25-34,M,other,Redlands,California,Money Train (1995),Action,Wesley Snipes|Robert Blake|Woody Harrelson|Jennifer Lopez,Joseph Ruben,2,dislike,1997-12-17 08:52:02
+663,26,25-34,M,other,Exton,Pennsylvania,Bottle Rocket (1996),Comedy,Owen Wilson|Luke Wilson|Ned Dowd|Shea Fowler,Wes Anderson,3,dislike,1998-03-10 01:16:02
+437,27,25-34,F,other,Washington,District of columbia,Ed Wood (1994),Comedy|Drama,Sarah Jessica Parker|Martin Landau|Johnny Depp|Patricia Arquette,Tim Burton,4,like,1997-11-21 19:28:54
+276,21,18-24,M,student,Santa cruz,California,"Santa Clause, The (1994)",Children|Comedy,Tim Allen|Wendy Crewson|Judge Reinhold|Eric Lloyd,John Pasquin,3,dislike,1997-09-20 21:49:28
+267,23,18-24,M,engineer,Boise,Idaho,Pulp Fiction (1994),Crime|Drama,Tim Roth|John Travolta|Laura Lovelace|Samuel L. Jackson,Quentin Tarantino,5,like,1997-11-08 07:01:33
+923,21,18-24,M,student,Unknown,Unknown,Grumpier Old Men (1995),Comedy|Romance,Walter Matthau|Ann-Margret|Jack Lemmon|Sophia Loren,Howard Deutch,4,like,1997-11-24 16:07:04
+922,29,25-34,F,administrator,Crofton,Maryland,Father of the Bride Part II (1995),Comedy,Steve Martin|Kimberly Williams-Paisley|Diane Keaton|Martin Short,Charles Shyer,2,dislike,1998-04-01 18:26:25
+864,27,25-34,M,programmer,Ballwin,Missouri,Ed Wood (1994),Comedy|Drama,Sarah Jessica Parker|Martin Landau|Johnny Depp|Patricia Arquette,Tim Burton,5,like,1998-03-03 01:11:42
+11,39,35-44,F,other,Atlanta,Georgia,"Queen Margot (Reine Margot, La) (1994)",Drama|Romance,Jean-Hugues Anglade|Isabelle Adjani|Vincent Perez|Daniel Auteuil,Patrice Chéreau,3,dislike,1998-04-06 23:12:15
+328,51,45-54,M,administrator,Oakville,Connecticut,Babe (1995),Children|Comedy|Drama,Hugo Weaving|Christine Cavanaugh|Danny Mann|Miriam Margolyes,Chris Noonan,3,dislike,1998-01-17 14:23:38
+397,17,Under 18,M,student,Chapel hill,North carolina,Casino (1995),Drama,Robert De Niro|Joe Pesci|Sharon Stone|James Woods,Martin Scorsese,4,like,1998-01-21 02:32:35
+283,28,25-34,M,programmer,Minnetonka,Minnesota,Clerks (1994),Comedy,Jason Mewes|Brian O'Halloran|Jeff Anderson|Marilyn Ghigliotti,Kevin Smith,5,like,1997-11-12 01:32:13
+754,59,55-64,F,librarian,Carbondale,Illinois,Dead Man Walking (1995),Drama,Susan Sarandon|Raymond J. Barry|Robert Prosky|Sean Penn,Tim Robbins,4,like,1997-11-13 20:07:06
+880,13,Under 18,M,student,Boise,Idaho,Heat (1995),Action|Crime|Thriller,Al Pacino|Robert De Niro|Val Kilmer|Jon Voight,Michael Mann,5,like,1997-11-22 02:46:10
+243,33,25-34,M,educator,Evanston,Illinois,Apollo 13 (1995),Action|Drama|Thriller,Bill Paxton|Kevin Bacon|Tom Hanks|Gary Sinise,Ron Howard,4,like,1997-11-20 01:10:15
+425,19,18-24,M,student,Unknown,Unknown,From Dusk Till Dawn (1996),Action|Comedy|Crime|Horror|Thriller,George Clooney|Quentin Tarantino|Harvey Keitel|Juliette Lewis,Robert Rodriguez,4,like,1997-11-05 13:58:10
+807,41,35-44,F,healthcare,China lake nwc,California,Little Women (1994),Drama,Gabriel Byrne|Winona Ryder|Samantha Mathis|Trini Alvarado,Gillian Armstrong,4,like,1998-04-14 04:35:15
+393,19,18-24,M,student,Nampa,Idaho,Muppet Treasure Island (1996),Action|Adventure|Comedy|Musical|Thriller,Tim Curry|Billy Connolly|Jennifer Saunders|Kevin Bishop,Brian Henson,3,dislike,1998-02-17 19:46:05
+141,49,45-54,M,programmer,Montgomery,Alabama,Eye for an Eye (1996),Drama|Thriller,Sally Field|Ed Harris|Olivia Burnette|Alexandra Kyle,John Schlesinger,4,like,1998-01-12 06:08:20
+125,30,25-34,M,lawyer,Arlington,Virginia,"Santa Clause, The (1994)",Children|Comedy,Tim Allen|Wendy Crewson|Judge Reinhold|Eric Lloyd,John Pasquin,3,dislike,1998-04-17 18:42:38
+232,45,45-54,M,scientist,Fairbanks,Alaska,"Madness of King George, The (1994)",Drama,Nigel Hawthorne|Rupert Graves|Amanda Donohoe|Helen Mirren,Nicholas Hytner,5,like,1998-02-27 03:28:50
+474,51,45-54,M,executive,Fresno,California,Braveheart (1995),Action|Drama|War,James Robinson|Sandy Nelson|Sean Lawlor|James Cosmo,Mel Gibson,4,like,1998-02-19 21:42:51
+455,48,45-54,M,administrator,Boise,Idaho,Dead Man Walking (1995),Drama,Susan Sarandon|Raymond J. Barry|Robert Prosky|Sean Penn,Tim Robbins,4,like,1997-11-03 19:34:45
+889,24,18-24,M,technician,Austin,Texas,Outbreak (1995),Action|Drama|Thriller,Dustin Hoffman|Rene Russo|Morgan Freeman|Kevin Spacey,Wolfgang Petersen,3,dislike,1997-11-22 07:13:35
+393,19,18-24,M,student,Nampa,Idaho,Mallrats (1995),Comedy,Shannen Doherty|Jason Lee|Jeremy London|Claire Forlani,Kevin Smith,2,dislike,1998-03-12 18:38:50
+500,28,25-34,M,administrator,Stanford,California,"Birdcage, The (1996)",Comedy,Nathan Lane|Dianne Wiest|Robin Williams|Gene Hackman,Mike Nichols,3,dislike,1998-01-03 22:15:55
+365,29,25-34,M,lawyer,Washington,District of columbia,Toy Story (1995),Animation|Children|Comedy,Jim Varney|Tim Allen|Tom Hanks|Don Rickles,John Lasseter,4,like,1998-03-31 00:26:39
+735,29,25-34,F,healthcare,Tucson,Arizona,Toy Story (1995),Animation|Children|Comedy,Jim Varney|Tim Allen|Tom Hanks|Don Rickles,John Lasseter,4,like,1997-10-12 23:26:36
+603,21,18-24,M,programmer,Lafayette,Indiana,Heat (1995),Action|Crime|Thriller,Al Pacino|Robert De Niro|Val Kilmer|Jon Voight,Michael Mann,1,dislike,1998-04-07 13:35:24
+788,51,45-54,M,administrator,Unknown,Unknown,Get Shorty (1995),Action|Comedy|Drama,Danny DeVito|Gene Hackman|Rene Russo|John Travolta,Barry Sonnenfeld,3,dislike,1997-11-30 05:40:01
+347,18,18-24,M,student,Beverly hills,California,Casino (1995),Drama,Robert De Niro|Joe Pesci|Sharon Stone|James Woods,Martin Scorsese,5,like,1997-12-09 07:55:56
+659,31,25-34,M,educator,Unknown,Unknown,Quiz Show (1994),Drama,John Turturro|Paul Scofield|Ralph Fiennes|Rob Morrow,Robert Redford,4,like,1998-03-31 22:56:52
+661,28,25-34,M,programmer,Seattle,Washington,Toy Story (1995),Animation|Children|Comedy,Jim Varney|Tim Allen|Tom Hanks|Don Rickles,John Lasseter,5,like,1997-10-05 01:55:45
+320,19,18-24,M,student,Whitethorne,Virginia,Eye for an Eye (1996),Drama|Thriller,Sally Field|Ed Harris|Olivia Burnette|Alexandra Kyle,John Schlesinger,3,dislike,1998-01-14 03:38:17
+442,22,18-24,M,student,Tempe,Arizona,From Dusk Till Dawn (1996),Action|Comedy|Crime|Horror|Thriller,George Clooney|Quentin Tarantino|Harvey Keitel|Juliette Lewis,Robert Rodriguez,4,like,1997-12-29 09:42:15
+940,32,25-34,M,administrator,Boston,Massachusetts,"Sum of Us, The (1994)",Comedy,Jack Thompson|Russell Crowe|John Polson|Deborah Kennedy, Kevin Dowling|Geoff Burton,4,like,1998-01-27 17:13:18
+216,22,18-24,M,engineer,Boston,Massachusetts,Clueless (1995),Comedy,Alicia Silverstone|Paul Rudd|Brittany Murphy|Stacey Dash,Amy Heckerling,3,dislike,1997-12-06 17:12:45
+1,24,18-24,M,technician,Tucson,Arizona,"Santa Clause, The (1994)",Children|Comedy,Tim Allen|Wendy Crewson|Judge Reinhold|Eric Lloyd,John Pasquin,2,dislike,1997-11-03 07:46:36
+886,20,18-24,M,student,Champaign,Illinois,"American President, The (1995)",Comedy|Drama|Romance,Martin Sheen|Michael J. Fox|Michael Douglas|Annette Bening,Rob Reiner,3,dislike,1997-10-05 06:17:05
+218,37,35-44,M,administrator,East haven,Connecticut,Copycat (1995),Crime|Drama|Thriller,Sigourney Weaver|Holly Hunter|Dermot Mulroney|William McNamara,Jon Amiel,3,dislike,1997-12-05 02:22:54
+92,32,25-34,M,entertainment,Fort collins,Colorado,Kiss of Death (1995),Crime|Drama|Thriller,Nicolas Cage|David Caruso|Helen Hunt|Samuel L. Jackson,Barbet Schroeder,4,like,1997-10-02 17:19:01
+45,29,25-34,M,programmer,Redfield,Iowa,Blue in the Face (1995),Comedy,Michael J. Fox|Mel Gorham|Roseanne Barr|Lou Reed,Wayne Wang|Paul Auster| Harvey Wang,4,like,1997-12-01 22:10:47
+476,28,25-34,M,student,Bolingbrook,Illinois,Boomerang (1992),Comedy|Romance,Eddie Murphy|Halle Berry|Robin Givens|David Alan Grier,Reginald Hudlin,4,like,1997-12-29 03:17:22
+298,44,35-44,M,executive,Westborough,Massachusetts,Sabrina (1954),Comedy|Romance,Julia Ormond|Harrison Ford|Nancy Marchand|Greg Kinnear,Sydney Pollack,3,dislike,1998-01-07 14:24:23
+618,15,Under 18,F,student,Brunswick,Ohio,GoldenEye (1995),Action|Adventure|Thriller,Pierce Brosnan|Famke Janssen|Sean Bean|Izabella Scorupco,Martin Campbell,2,dislike,1998-03-31 01:51:31
+455,48,45-54,M,administrator,Boise,Idaho,Toy Story (1995),Animation|Children|Comedy,Jim Varney|Tim Allen|Tom Hanks|Don Rickles,John Lasseter,4,like,1997-11-03 19:34:45
+624,19,18-24,M,student,Marietta,Georgia,Beautiful Girls (1996),Drama,Annabeth Gish|Matt Dillon|Lauren Holly|Noah Emmerich,Ted Demme,4,like,1997-11-17 19:02:10
+315,31,25-34,M,educator,East stroudsburg,Pennsylvania,From Dusk Till Dawn (1996),Action|Comedy|Crime|Horror|Thriller,George Clooney|Quentin Tarantino|Harvey Keitel|Juliette Lewis,Robert Rodriguez,1,dislike,1997-11-18 02:43:23
+851,18,18-24,M,other,Greenwood,South carolina,From Dusk Till Dawn (1996),Action|Comedy|Crime|Horror|Thriller,George Clooney|Quentin Tarantino|Harvey Keitel|Juliette Lewis,Robert Rodriguez,5,like,1997-10-02 15:44:49
+844,22,18-24,M,engineer,Orangevale,California,"Usual Suspects, The (1995)",Crime|Thriller,Gabriel Byrne|Stephen Baldwin|Benicio Del Toro|Kevin Pollak,Bryan Singer,5,like,1997-10-20 22:56:22
+256,35,35-44,F,none,Brandon,Mississippi,GoldenEye (1995),Action|Adventure|Thriller,Pierce Brosnan|Famke Janssen|Sean Bean|Izabella Scorupco,Martin Campbell,5,like,1997-12-15 05:41:20
+305,23,18-24,M,programmer,Sunnyvale,California,Mighty Aphrodite (1995),Comedy,Woody Allen|Mira Sorvino|Rene Ceballos|George De La Pena,Woody Allen,3,dislike,1998-02-01 09:06:38
+422,26,25-34,M,entertainment,Fairfield,California,Heavenly Creatures (1994),Drama|Fantasy|Thriller,Kate Winslet|Melanie Lynskey|Diana Kent|Sarah Peirse,Peter Jackson,4,like,1997-11-17 05:21:25
+846,27,25-34,M,lawyer,Jeffersonville,Indiana,Powder (1995),Drama,Mary Steenburgen|Jeff Goldblum|Lance Henriksen|Sean Patrick Flanery,Victor Salva,2,dislike,1998-01-04 21:47:14
+210,39,35-44,M,engineer,Nashua,New hampshire,Happy Gilmore (1996),Comedy,Adam Sandler|Christopher McDonald|Frances Bay|Julie Bowen,Dennis Dugan,2,dislike,1998-02-17 15:52:30
+663,26,25-34,M,other,Exton,Pennsylvania,Sudden Death (1995),Action,Jean-Claude Van Damme|Powers Boothe|Raymond J. Barry|Whittni Wright,Peter Hyams,2,dislike,1998-03-10 01:23:10
+246,19,18-24,M,student,Franklin,North carolina,Billy Madison (1995),Comedy,Bridgette Wilson|Adam Sandler|Darren McGavin|Bradley Whitford,Tamra Davis,2,dislike,1998-01-16 04:10:11
+393,19,18-24,M,student,Nampa,Idaho,To Die For (1995),Comedy|Drama,Joaquin Phoenix|Matt Dillon|Casey Affleck|Nicole Kidman,Gus Van Sant,1,dislike,1998-03-12 19:39:52
+831,21,18-24,M,other,Saint petersburg,Florida,"Usual Suspects, The (1995)",Crime|Thriller,Gabriel Byrne|Stephen Baldwin|Benicio Del Toro|Kevin Pollak,Bryan Singer,5,like,1998-03-31 14:31:27
+24,21,18-24,F,artist,Fairfield,California,Clueless (1995),Comedy,Alicia Silverstone|Paul Rudd|Brittany Murphy|Stacey Dash,Amy Heckerling,2,dislike,1997-09-27 01:20:41
+195,42,35-44,M,scientist,China lake nwc,California,Under Siege 2: Dark Territory (1995),Action,Eric Bogosian|Everett McGill|Katherine Heigl|Steven Seagal,Geoff Murphy,1,dislike,1997-10-12 05:03:20
+291,19,18-24,M,student,Cleveland,Ohio,Dead Man Walking (1995),Drama,Susan Sarandon|Raymond J. Barry|Robert Prosky|Sean Penn,Tim Robbins,5,like,1997-09-21 01:36:44
+222,29,25-34,M,programmer,Apex,North carolina,Dead Man Walking (1995),Drama,Susan Sarandon|Raymond J. Barry|Robert Prosky|Sean Penn,Tim Robbins,5,like,1997-10-22 23:33:47
+343,43,35-44,M,engineer,Norcross,Georgia,"Shawshank Redemption, The (1994)",Drama,Tim Robbins|William Sadler|Bob Gunton|Morgan Freeman,Frank Darabont,5,like,1997-10-09 14:01:37
+833,34,25-34,M,writer,Los angeles,California,Copycat (1995),Crime|Drama|Thriller,Sigourney Weaver|Holly Hunter|Dermot Mulroney|William McNamara,Jon Amiel,1,dislike,1997-11-18 02:02:15
+405,22,18-24,F,healthcare,New york,New york,Mute Witness (1994),Thriller,Fay Ripley|Evan Richards|Oleg Yankovskiy|Marina Zudina,Anthony Waller,1,dislike,1998-01-23 09:38:50
+405,22,18-24,F,healthcare,New york,New york,"Secret of Roan Inish, The (1994)",Adventure,Pat Slowey|Dave Duffy|Declan Hannigan|Jeni Courtney,John Sayles,1,dislike,1998-01-23 09:47:16
+45,29,25-34,M,programmer,Redfield,Iowa,Beautiful Girls (1996),Drama,Annabeth Gish|Matt Dillon|Lauren Holly|Noah Emmerich,Ted Demme,4,like,1997-12-01 21:59:23
+299,29,25-34,M,doctor,Saint louis,Missouri,Junior (1994),Comedy|Sci-Fi,Arnold Schwarzenegger|Danny DeVito|Emma Thompson|Frank Langella,Ivan Reitman,2,dislike,1998-03-10 04:12:39
+497,20,18-24,M,student,Grinnell,Iowa,Heat (1995),Action|Crime|Thriller,Al Pacino|Robert De Niro|Val Kilmer|Jon Voight,Michael Mann,4,like,1997-11-12 04:56:44
+588,18,18-24,F,student,Santa susana,California,Mary Reilly (1996),Drama|Thriller,Julia Roberts|George Cole|Michael Gambon|John Malkovich,Stephen Frears,5,like,1998-03-16 06:52:21
+303,19,18-24,M,student,Unknown,Unknown,Clerks (1994),Comedy,Jason Mewes|Brian O'Halloran|Jeff Anderson|Marilyn Ghigliotti,Kevin Smith,5,like,1997-11-14 00:27:03
+117,20,18-24,M,student,Shenango,Pennsylvania,Kids (1995),Drama,Leo Fitzpatrick|Joseph Chan|Sarah Henderson|Justin Pierce,Larry Clark,4,like,1997-12-01 21:45:28
+69,24,18-24,M,engineer,Burnsville,Minnesota,Dead Man Walking (1995),Drama,Susan Sarandon|Raymond J. Barry|Robert Prosky|Sean Penn,Tim Robbins,4,like,1997-12-14 19:01:26
+87,47,45-54,M,administrator,Reno,Nevada,To Die For (1995),Comedy|Drama,Joaquin Phoenix|Matt Dillon|Casey Affleck|Nicole Kidman,Gus Van Sant,3,dislike,1997-11-18 18:14:45
+577,36,35-44,F,student,College station,Texas,Quiz Show (1994),Drama,John Turturro|Paul Scofield|Ralph Fiennes|Rob Morrow,Robert Redford,4,like,1997-11-25 16:13:34
+130,20,18-24,M,none,De kalb,Illinois,"Santa Clause, The (1994)",Children|Comedy,Tim Allen|Wendy Crewson|Judge Reinhold|Eric Lloyd,John Pasquin,4,like,1997-10-07 19:28:41
+501,22,18-24,M,student,New york,New york,"Birdcage, The (1996)",Comedy,Nathan Lane|Dianne Wiest|Robin Williams|Gene Hackman,Mike Nichols,3,dislike,1997-12-28 22:22:53
+346,34,25-34,M,other,Keene,Texas,Braveheart (1995),Action|Drama|War,James Robinson|Sandy Nelson|Sean Lawlor|James Cosmo,Mel Gibson,5,like,1997-09-22 17:07:39
+699,44,35-44,M,other,Kilauea,Hawaii,Before and After (1996),Drama|Mystery,Meryl Streep|Julia Weldon|Edward Furlong|Liam Neeson,Barbet Schroeder,3,dislike,1997-11-10 07:33:59
+405,22,18-24,F,healthcare,New york,New york,Farinelli: il castrato (1994),Drama|Musical,Stefano Dionisi|Enrico Lo Verso|Jeroen Krabbé|Elsa Zylberstein,Gérard Corbiau,1,dislike,1998-01-23 10:00:50
+291,19,18-24,M,student,Cleveland,Ohio,Mixed Nuts (1994),Comedy,Anthony LaPaglia|Robert Klein|Madeline Kahn|Steve Martin,Nora Ephron,1,dislike,1997-09-24 07:31:48
+435,24,18-24,M,engineer,Elk grove villag,Illinois,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",Comedy,Wesley Snipes|Stockard Channing|Patrick Swayze|John Leguizamo,Beeban Kidron,3,dislike,1998-01-07 00:39:04
+805,27,25-34,F,other,Washington,District of columbia,Die Hard: With a Vengeance (1995),Action|Thriller,Bruce Willis|Samuel L. Jackson|Jeremy Irons|Graham Greene,John McTiernan,3,dislike,1997-12-09 19:14:14
+272,33,25-34,M,scientist,Madison,Wisconsin,Braveheart (1995),Action|Drama|War,James Robinson|Sandy Nelson|Sean Lawlor|James Cosmo,Mel Gibson,5,like,1997-11-13 20:59:13
+486,39,35-44,M,educator,Santa barbara,California,Mighty Aphrodite (1995),Comedy,Woody Allen|Mira Sorvino|Rene Ceballos|George De La Pena,Woody Allen,4,like,1997-11-18 17:40:11
+505,27,25-34,F,other,Lusby,Maryland,Toy Story (1995),Animation|Children|Comedy,Jim Varney|Tim Allen|Tom Hanks|Don Rickles,John Lasseter,3,dislike,1998-03-08 05:03:34
+884,44,35-44,M,engineer,Burnsville,Minnesota,"Secret of Roan Inish, The (1994)",Adventure,Pat Slowey|Dave Duffy|Declan Hannigan|Jeni Courtney,John Sayles,5,like,1997-10-14 19:57:50
+417,27,25-34,F,other,Ann arbor,Michigan,Quiz Show (1994),Drama,John Turturro|Paul Scofield|Ralph Fiennes|Rob Morrow,Robert Redford,3,dislike,1997-11-16 02:25:40
+128,24,18-24,F,marketing,Washington,District of columbia,Devil in a Blue Dress (1995),Crime|Film-Noir|Mystery|Thriller,Denzel Washington|Jennifer Beals|Tom Sizemore|Don Cheadle,Carl Franklin,3,dislike,1997-11-19 19:33:28
+454,57,55-64,M,other,Corvallis,Oregon,"American President, The (1995)",Comedy|Drama|Romance,Martin Sheen|Michael J. Fox|Michael Douglas|Annette Bening,Rob Reiner,5,like,1998-02-23 20:52:38
+615,38,35-44,M,educator,Durham,North carolina,"Boys of St. Vincent, The (1993)",Drama,Philip Dinn|Brian Dooley|Johnny Morina|Henry Czerny,John N. Smith,4,like,1997-11-13 19:18:35
+348,24,18-24,F,student,Peebles,Ohio,Bio-Dome (1996),Comedy,William Atherton|Denise Dowse|Dara Tomanovich|Kevin West,Jason Bloom,3,dislike,1998-02-03 16:37:56
+432,22,18-24,M,entertainment,Windsor heights,Iowa,Toy Story (1995),Animation|Children|Comedy,Jim Varney|Tim Allen|Tom Hanks|Don Rickles,John Lasseter,2,dislike,1998-03-09 03:59:43
+343,43,35-44,M,engineer,Norcross,Georgia,Sense and Sensibility (1995),Drama|Romance,James Fleet|Kate Winslet|Tom Wilkinson|Harriet Walter,Ang Lee,5,like,1997-10-09 14:42:19
+315,31,25-34,M,educator,East stroudsburg,Pennsylvania,Leaving Las Vegas (1995),Drama|Romance,Nicolas Cage|Elisabeth Shue|Julian Sands|Richard Lewis,Mike Figgis,4,like,1997-11-17 20:45:26
+101,15,Under 18,M,student,Grafton,Vermont,Father of the Bride Part II (1995),Comedy,Steve Martin|Kimberly Williams-Paisley|Diane Keaton|Martin Short,Charles Shyer,3,dislike,1997-10-18 01:00:24
+279,33,25-34,M,programmer,Scottsdale,Arizona,Happy Gilmore (1996),Comedy,Adam Sandler|Christopher McDonald|Frances Bay|Julie Bowen,Dennis Dugan,3,dislike,1997-09-26 18:12:02
+426,55,55-64,M,educator,Worcester,Massachusetts,Taxi Driver (1976),Drama|Thriller,Diahnne Abbott|Gino Ardito|Frank Adu|Victor Argo,Martin Scorsese,4,like,1997-11-13 18:12:14
+334,32,25-34,M,librarian,Avondale estates,Georgia,Georgia (1995),Drama,Jennifer Jason Leigh|Max Perlich|Mare Winningham|Ted Levine,Ulu Grosbard,3,dislike,1998-04-02 19:26:02
+11,39,35-44,F,other,Atlanta,Georgia,Mary Reilly (1996),Drama|Thriller,Julia Roberts|George Cole|Michael Gambon|John Malkovich,Stephen Frears,3,dislike,1998-04-06 22:48:00
+92,32,25-34,M,entertainment,Fort collins,Colorado,Leaving Las Vegas (1995),Drama|Romance,Nicolas Cage|Elisabeth Shue|Julian Sands|Richard Lewis,Mike Figgis,5,like,1997-09-30 17:24:11
+435,24,18-24,M,engineer,Elk grove villag,Illinois,Happy Gilmore (1996),Comedy,Adam Sandler|Christopher McDonald|Frances Bay|Julie Bowen,Dennis Dugan,5,like,1998-01-07 00:39:04
+125,30,25-34,M,lawyer,Arlington,Virginia,Babe (1995),Children|Comedy|Drama,Hugo Weaving|Christine Cavanaugh|Danny Mann|Miriam Margolyes,Chris Noonan,4,like,1997-11-13 20:53:39
+38,28,25-34,F,other,Plover,Wisconsin,Grumpier Old Men (1995),Comedy|Romance,Walter Matthau|Ann-Margret|Jack Lemmon|Sophia Loren,Howard Deutch,5,like,1998-04-13 01:57:04
+846,27,25-34,M,lawyer,Jeffersonville,Indiana,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",Comedy,Wesley Snipes|Stockard Channing|Patrick Swayze|John Leguizamo,Beeban Kidron,2,dislike,1998-01-04 21:44:13
+825,44,35-44,M,engineer,Essex junction,Vermont,Sudden Death (1995),Action,Jean-Claude Van Damme|Powers Boothe|Raymond J. Barry|Whittni Wright,Peter Hyams,4,like,1997-12-03 21:42:23
+924,29,25-34,M,other,Jericho,New york,Heat (1995),Action|Crime|Thriller,Al Pacino|Robert De Niro|Val Kilmer|Jon Voight,Michael Mann,3,dislike,1998-03-07 16:05:21
+479,30,25-34,M,educator,Minneapolis,Minnesota,Toy Story (1995),Animation|Children|Comedy,Jim Varney|Tim Allen|Tom Hanks|Don Rickles,John Lasseter,5,like,1997-11-13 22:25:39
+796,32,25-34,F,writer,Saint petersburg,Florida,Little Women (1994),Drama,Gabriel Byrne|Winona Ryder|Samantha Mathis|Trini Alvarado,Gillian Armstrong,4,like,1998-04-21 19:56:16
+189,32,25-34,M,artist,Monte vista,California,Miracle on 34th Street (1994),Drama,Richard Attenborough|J.T. Walsh|Dylan McDermott|Elizabeth Perkins,Les Mayfield,4,like,1998-04-22 17:28:57
+459,22,18-24,M,student,Columbia,South carolina,Sabrina (1995),Comedy|Romance,Julia Ormond|Harrison Ford|Nancy Marchand|Greg Kinnear,Sydney Pollack,4,like,1997-11-15 03:07:06
+599,22,18-24,F,student,Unknown,Unknown,Sabrina (1995),Comedy|Romance,Julia Ormond|Harrison Ford|Nancy Marchand|Greg Kinnear,Sydney Pollack,5,like,1997-12-01 04:55:44
+738,35,35-44,M,technician,Santa rosa,California,Die Hard: With a Vengeance (1995),Action|Thriller,Bruce Willis|Samuel L. Jackson|Jeremy Irons|Graham Greene,John McTiernan,3,dislike,1997-09-27 09:13:23
+227,46,45-54,M,executive,Lincolnwood,Illinois,Mr. Holland's Opus (1995),Drama,Jay Thomas|Glenne Headly|Olympia Dukakis|Richard Dreyfuss,Stephen Herek,4,like,1997-11-09 00:35:25
+373,24,18-24,F,other,Saint paul,Minnesota,Star Trek: Generations (1994),Action|Adventure|Sci-Fi,Patrick Stewart|Brent Spiner|Jonathan Frakes|LeVar Burton,David Carson,4,like,1997-10-17 18:13:37
+93,48,45-54,M,executive,Midlothian,Virginia,Sense and Sensibility (1995),Drama|Romance,James Fleet|Kate Winslet|Tom Wilkinson|Harriet Walter,Ang Lee,4,like,1998-02-28 22:33:44
+135,23,18-24,M,student,Columbia,Tennessee,Strange Days (1995),Action|Crime|Sci-Fi,Ralph Fiennes|Angela Bassett|Juliette Lewis|Tom Sizemore,Kathryn Bigelow,3,dislike,1997-11-18 12:58:51
+592,18,18-24,M,student,Ashland,Oregon,Heavenly Creatures (1994),Drama|Fantasy|Thriller,Kate Winslet|Melanie Lynskey|Diana Kent|Sarah Peirse,Peter Jackson,5,like,1997-12-24 09:32:28
+207,39,35-44,M,marketing,La jolla,California,Happy Gilmore (1996),Comedy,Adam Sandler|Christopher McDonald|Frances Bay|Julie Bowen,Dennis Dugan,3,dislike,1997-10-25 01:40:09
+748,28,25-34,M,administrator,Unknown,Unknown,"American President, The (1995)",Comedy|Drama|Romance,Martin Sheen|Michael J. Fox|Michael Douglas|Annette Bening,Rob Reiner,3,dislike,1997-11-13 21:10:10
+122,32,25-34,F,writer,Arlington,Virginia,Little Women (1994),Drama,Gabriel Byrne|Winona Ryder|Samantha Mathis|Trini Alvarado,Gillian Armstrong,5,like,1997-11-11 17:49:01
+886,20,18-24,M,student,Champaign,Illinois,Angels and Insects (1995),Drama|Romance,Patsy Kensit|Kristin Scott Thomas|Mark Rylance|Jeremy Kemp,Philip Haas,2,dislike,1997-10-05 06:08:59
+405,22,18-24,F,healthcare,New york,New york,Milk Money (1994),Comedy|Romance,Malcolm McDowell|Melanie Griffith|Ed Harris|Michael Patrick Carter,Richard Benjamin,2,dislike,1998-01-23 09:27:25
+447,30,25-34,M,administrator,Roseville,Minnesota,Bad Boys (1995),Action,Michael Taliferro|Lisa Boyle|Martin Lawrence|Will Smith,Michael Bay,3,dislike,1997-11-06 22:50:01
+330,35,35-44,F,educator,Cypress gardens,Florida,Quiz Show (1994),Drama,John Turturro|Paul Scofield|Ralph Fiennes|Rob Morrow,Robert Redford,5,like,1997-10-11 05:02:12
+450,35,35-44,F,educator,North massapequa,New york,"Boys of St. Vincent, The (1993)",Drama,Philip Dinn|Brian Dooley|Johnny Morina|Henry Czerny,John N. Smith,5,like,1998-02-10 18:57:46
+830,46,45-54,M,programmer,Oconomowoc,Wisconsin,Braveheart (1995),Action|Drama|War,James Robinson|Sandy Nelson|Sean Lawlor|James Cosmo,Mel Gibson,5,like,1998-04-03 00:01:13
+5,33,25-34,F,other,Oakland,Pennsylvania,Sudden Death (1995),Action,Jean-Claude Van Damme|Powers Boothe|Raymond J. Barry|Whittni Wright,Peter Hyams,3,dislike,1997-09-30 16:00:25
+43,29,25-34,F,librarian,Potomac,Maryland,French Kiss (1995),Comedy|Romance,Meg Ryan|Jean Reno|Timothy Hutton|Kevin Kline,Lawrence Kasdan,3,dislike,1998-01-04 23:28:14
+537,36,35-44,M,engineer,Monticello,Virginia,"Usual Suspects, The (1995)",Crime|Thriller,Gabriel Byrne|Stephen Baldwin|Benicio Del Toro|Kevin Pollak,Bryan Singer,3,dislike,1998-01-28 23:44:34
+666,44,35-44,M,administrator,Champaign,Illinois,Crumb (1994),Documentary,Aline Kominsky|Robert Crumb|Maxon Crumb|Charles Crumb,Terry Zwigoff,4,like,1997-11-21 19:11:06
+551,25,25-34,M,programmer,Minneapolis,Minnesota,"Juror, The (1996)",Drama|Thriller,Alec Baldwin|Demi Moore|Anne Heche|Joseph Gordon-Levitt,Brian Gibson,3,dislike,1998-04-17 03:52:44
+921,20,18-24,F,student,Wenatchee,Washington,Screamers (1995),Sci-Fi,Peter Weller|Andrew Lauer|Jennifer Rubin|Roy Dupuis,Christian Duguay,2,dislike,1997-11-13 00:16:04
+566,20,18-24,M,student,Unknown,Unknown,Before the Rain (Pred dozhdot) (1994),Drama,Katrin Cartlidge|Labina Mitevska|Grégoire Colin|Rade Serbedzija,Milcho Manchevski,5,like,1997-12-09 06:39:08
+922,29,25-34,F,administrator,Crofton,Maryland,Leaving Las Vegas (1995),Drama|Romance,Nicolas Cage|Elisabeth Shue|Julian Sands|Richard Lewis,Mike Figgis,3,dislike,1998-04-01 18:04:14
+798,40,35-44,F,writer,Kansas city,Missouri,"Amazing Panda Adventure, The (1995)",Adventure|Children,Wang Fei|Stephen Lang|Yi Ding|Ryan Slater,Christopher Cain,4,like,1997-10-01 22:06:16
+62,27,25-34,F,administrator,Portland,Oregon,Dolores Claiborne (1994),Drama|Thriller,Kathy Bates|Judy Parfitt|Christopher Plummer|Jennifer Jason Leigh,Taylor Hackford,3,dislike,1997-11-12 22:35:42
+268,24,18-24,M,engineer,Penllyn,Pennsylvania,"Juror, The (1996)",Drama|Thriller,Alec Baldwin|Demi Moore|Anne Heche|Joseph Gordon-Levitt,Brian Gibson,1,dislike,1997-10-10 20:03:05
+385,36,35-44,M,writer,New york,New york,Smoke (1995),Drama,Giancarlo Esposito|Stephen Gevedon|José Zúñiga|Harvey Keitel,Paul Auster|Wayne Wang,4,like,1997-11-13 17:25:42
+106,61,55-64,M,retired,Woodbury,Minnesota,"Usual Suspects, The (1995)",Crime|Thriller,Gabriel Byrne|Stephen Baldwin|Benicio Del Toro|Kevin Pollak,Bryan Singer,4,like,1997-12-06 23:33:54
+552,45,45-54,M,other,Omaha,Nebraska,Father of the Bride Part II (1995),Comedy,Steve Martin|Kimberly Williams-Paisley|Diane Keaton|Martin Short,Charles Shyer,2,dislike,1997-11-11 04:14:43
+230,28,25-34,F,student,Kendall,New york,Leaving Las Vegas (1995),Drama|Romance,Nicolas Cage|Elisabeth Shue|Julian Sands|Richard Lewis,Mike Figgis,5,like,1997-11-25 19:19:33
+145,31,25-34,M,entertainment,Unknown,Unknown,Heat (1995),Action|Crime|Thriller,Al Pacino|Robert De Niro|Val Kilmer|Jon Voight,Michael Mann,5,like,1997-09-26 10:38:42
+459,22,18-24,M,student,Columbia,South carolina,City Hall (1996),Drama|Thriller,Al Pacino|John Cusack|Bridget Fonda|Danny Aiello,Harold Becker,4,like,1997-11-15 03:15:36
+396,57,55-64,M,engineer,Unknown,Unknown,Broken Arrow (1996),Action|Thriller,John Travolta|Christian Slater|Samantha Mathis|Delroy Lindo,John Woo,4,like,1998-01-12 23:10:47
+236,44,35-44,F,writer,West allis,Wisconsin,Broken Arrow (1996),Action|Thriller,John Travolta|Christian Slater|Samantha Mathis|Delroy Lindo,John Woo,4,like,1998-03-17 06:47:03
+693,43,35-44,F,healthcare,Mesa,Arizona,Nell (1994),Drama,Jodie Foster|Richard Libertini|Liam Neeson|Natasha Richardson,Michael Apted,4,like,1997-09-28 21:41:52
+361,22,18-24,M,student,Oberlin,Ohio,Leaving Las Vegas (1995),Drama|Romance,Nicolas Cage|Elisabeth Shue|Julian Sands|Richard Lewis,Mike Figgis,4,like,1997-11-13 17:16:57
+279,33,25-34,M,programmer,Scottsdale,Arizona,Drop Zone (1994),Action,Wesley Snipes|Gary Busey|Michael Jeter|Yancy Butler,John Badham,3,dislike,1997-10-31 01:43:14
+805,27,25-34,F,other,Washington,District of columbia,Braveheart (1995),Action|Drama|War,James Robinson|Sandy Nelson|Sean Lawlor|James Cosmo,Mel Gibson,1,dislike,1997-12-09 19:07:03
+650,42,35-44,M,engineer,Coeur d alene,Idaho,Miracle on 34th Street (1994),Drama,Richard Attenborough|J.T. Walsh|Dylan McDermott|Elizabeth Perkins,Les Mayfield,3,dislike,1998-03-31 22:37:59
+106,61,55-64,M,retired,Woodbury,Minnesota,Apollo 13 (1995),Action|Drama|Thriller,Bill Paxton|Kevin Bacon|Tom Hanks|Gary Sinise,Ron Howard,4,like,1997-12-06 23:32:24
+643,39,35-44,M,scientist,Eagan,Minnesota,To Die For (1995),Comedy|Drama,Joaquin Phoenix|Matt Dillon|Casey Affleck|Nicole Kidman,Gus Van Sant,5,like,1998-04-01 17:03:30
+383,42,35-44,M,administrator,Dallas,Texas,Quiz Show (1994),Drama,John Turturro|Paul Scofield|Ralph Fiennes|Rob Morrow,Robert Redford,4,like,1998-03-29 17:40:10
+577,36,35-44,F,student,College station,Texas,Apollo 13 (1995),Action|Drama|Thriller,Bill Paxton|Kevin Bacon|Tom Hanks|Gary Sinise,Ron Howard,5,like,1997-11-25 15:34:37
+814,30,25-34,M,other,Unknown,Unknown,Pulp Fiction (1994),Crime|Drama,Tim Roth|John Travolta|Laura Lovelace|Samuel L. Jackson,Quentin Tarantino,3,dislike,1998-01-21 19:29:17
+445,21,18-24,M,writer,Laguna hills,California,"Crossing Guard, The (1995)",Drama,Jack Nicholson|Anjelica Huston|David Morse|Robin Wright,Sean Penn,2,dislike,1998-03-29 19:43:44
+314,20,18-24,F,student,Voorhees,New jersey,Only You (1994),Comedy|Romance,Marisa Tomei|Bonnie Hunt|Robert Downey Jr.|Joaquim de Almeida,Norman Jewison,3,dislike,1997-10-26 18:36:00
+291,19,18-24,M,student,Cleveland,Ohio,Major Payne (1994),Comedy,Orlando Brown|Damon Wayans|Joseph Blaire|Michael Ironside,Nick Castle,4,like,1997-09-24 07:32:34
+450,35,35-44,F,educator,North massapequa,New york,Three Wishes (1995),Drama,Patrick Swayze|Seth Mumy|Mary Elizabeth Mastrantonio|Joseph Mazzello,Martha Coolidge,4,like,1997-12-18 18:06:42
+923,21,18-24,M,student,Unknown,Unknown,Four Rooms (1995),Thriller,Amanda De Cadenet|Valeria Golino|Madonna|Sammi Davis,Allison Anders|Robert Rodriguez|Quentin Tarantino| Alexandre Rockwell,4,like,1997-11-24 16:08:27
+846,27,25-34,M,lawyer,Jeffersonville,Indiana,White Man's Burden (1995),Drama,Harry Belafonte|John Travolta|Kelly Lynch|Margaret Avery,Desmond Nakano,2,dislike,1998-01-04 21:31:48
+95,31,25-34,M,administrator,Tuckahoe,New york,"Kid in King Arthur's Court, A (1995)",Adventure|Children|Comedy|Fantasy|Romance|Sci-Fi,Thomas Ian Nicholas|Paloma Baeza|Joss Ackland|Art Malik,Michael Gottlieb,1,dislike,1997-11-26 19:22:46
+805,27,25-34,F,other,Washington,District of columbia,Flirting With Disaster (1996),Comedy,Mary Tyler Moore|Téa Leoni|Patricia Arquette|Ben Stiller,David O. Russell,3,dislike,1997-12-09 21:49:10
+370,52,45-54,M,writer,Pennington,New jersey,Clerks (1994),Comedy,Jason Mewes|Brian O'Halloran|Jeff Anderson|Marilyn Ghigliotti,Kevin Smith,3,dislike,1997-11-13 15:37:42
+314,20,18-24,F,student,Voorhees,New jersey,"American President, The (1995)",Comedy|Drama|Romance,Martin Sheen|Michael J. Fox|Michael Douglas|Annette Bening,Rob Reiner,5,like,1997-10-26 17:54:05
+924,29,25-34,M,other,Jericho,New york,"Quick and the Dead, The (1995)",Action|Adventure|Western,Sharon Stone|Russell Crowe|Gene Hackman|Leonardo DiCaprio,Sam Raimi,3,dislike,1998-02-06 10:07:37
+896,28,25-34,M,writer,Burbank,California,Batman Forever (1995),Action|Adventure|Comedy|Crime,Nicole Kidman|Jim Carrey|Tommy Lee Jones|Val Kilmer,Joel Schumacher,2,dislike,1998-02-11 01:35:16
+472,24,18-24,M,student,Los alamos,New mexico,Disclosure (1994),Drama|Thriller,Michael Douglas|Donald Sutherland|Demi Moore|Caroline Goodall,Barry Levinson,4,like,1997-10-04 16:29:20
+642,18,18-24,F,student,Mc kinleyville,California,Waterworld (1995),Action|Adventure,Kevin Costner|R.D. Call|Rick Aviles|Chaim Jeraffi,Kevin Reynolds,4,like,1998-01-26 19:29:22
+200,40,35-44,M,programmer,Los osos,California,Quiz Show (1994),Drama,John Turturro|Paul Scofield|Ralph Fiennes|Rob Morrow,Robert Redford,4,like,1998-01-06 23:28:21
+144,53,45-54,M,programmer,Silver spring,Maryland,Braveheart (1995),Action|Drama|War,James Robinson|Sandy Nelson|Sean Lawlor|James Cosmo,Mel Gibson,5,like,1998-02-21 23:57:19
+374,36,35-44,M,executive,West lake hills,Texas,Mr. Holland's Opus (1995),Drama,Jay Thomas|Glenne Headly|Olympia Dukakis|Richard Dreyfuss,Stephen Herek,3,dislike,1997-11-24 17:43:00
+757,26,25-34,M,student,Saint paul,Minnesota,Murder in the First (1995),Drama|Thriller,Christian Slater|Gary Oldman|Kevin Bacon|Embeth Davidtz,Marc Rocco,4,like,1998-02-26 04:31:38
+7,57,55-64,M,administrator,Granada hills,California,Pocahontas (1995),Animation|Children|Musical|Romance,Mel Gibson|Irene Bedard|David Ogden Stiers|Judy Kuhn,Eric Goldberg|Mike Gabriel,4,like,1998-04-09 14:24:09
+711,22,18-24,F,student,Carson,Pennsylvania,Little Women (1994),Drama,Gabriel Byrne|Winona Ryder|Samantha Mathis|Trini Alvarado,Gillian Armstrong,5,like,1997-11-20 02:42:08
+1,24,18-24,M,technician,Tucson,Arizona,"Doom Generation, The (1995)",Comedy|Drama,Rose McGowan|Johnathon Schaech|Cress Williams|James Duval,Gregg Araki,2,dislike,1997-11-03 07:41:09
+159,23,18-24,F,student,Eden prairie,Minnesota,Sabrina (1995),Comedy|Romance,Julia Ormond|Harrison Ford|Nancy Marchand|Greg Kinnear,Sydney Pollack,3,dislike,1997-11-26 15:16:27
+745,42,35-44,M,writer,Roseville,Minnesota,Leaving Las Vegas (1995),Drama|Romance,Nicolas Cage|Elisabeth Shue|Julian Sands|Richard Lewis,Mike Figgis,1,dislike,1997-11-21 14:51:45
+381,33,25-34,M,artist,Emeryville,California,"Specialist, The (1994)",Action,Sylvester Stallone|James Woods|Sharon Stone|Rod Steiger,Luis Llosa,3,dislike,1998-04-16 03:28:34
+758,27,25-34,M,student,Madison,Wisconsin,Money Train (1995),Action,Wesley Snipes|Robert Blake|Woody Harrelson|Jennifer Lopez,Joseph Ruben,3,dislike,1997-12-13 23:10:37
+314,20,18-24,F,student,Voorhees,New jersey,Something to Talk About (1995),Comedy|Drama|Romance,Julia Roberts|Robert Duvall|Dennis Quaid|Gena Rowlands,Lasse Hallström,3,dislike,1997-10-26 17:57:25
+363,20,18-24,M,student,Pojoaque valley,New mexico,Broken Arrow (1996),Action|Thriller,John Travolta|Christian Slater|Samantha Mathis|Delroy Lindo,John Woo,3,dislike,1998-04-02 06:10:40
+648,43,35-44,M,engineer,Canyon country,California,GoldenEye (1995),Action|Adventure|Thriller,Pierce Brosnan|Famke Janssen|Sean Bean|Izabella Scorupco,Martin Campbell,4,like,1998-01-15 16:45:42
+72,48,45-54,F,administrator,Edmond,Oklahoma,Legends of the Fall (1994),Drama|Romance|War|Western,Brad Pitt|Aidan Quinn|Julia Ormond|Anthony Hopkins,Edward Zwick,4,like,1997-11-20 14:42:26
+200,40,35-44,M,programmer,Los osos,California,Rob Roy (1995),Drama|Romance|War,Liam Neeson|Jessica Lange|John Hurt|Tim Roth,Michael Caton-Jones,4,like,1998-01-06 23:32:47
+924,29,25-34,M,other,Jericho,New york,GoldenEye (1995),Action|Adventure|Thriller,Pierce Brosnan|Famke Janssen|Sean Bean|Izabella Scorupco,Martin Campbell,3,dislike,1998-02-06 10:13:17
+412,25,25-34,M,educator,Downtown,Pennsylvania,Murder in the First (1995),Drama|Thriller,Christian Slater|Gary Oldman|Kevin Bacon|Embeth Davidtz,Marc Rocco,4,like,1997-11-16 21:54:13
+42,30,25-34,M,administrator,Selinsgrove,Pennsylvania,Toy Story (1995),Animation|Children|Comedy,Jim Varney|Tim Allen|Tom Hanks|Don Rickles,John Lasseter,5,like,1997-12-02 23:33:53
+405,22,18-24,F,healthcare,New york,New york,Clueless (1995),Comedy,Alicia Silverstone|Paul Rudd|Brittany Murphy|Stacey Dash,Amy Heckerling,1,dislike,1998-01-23 09:20:22
+389,44,35-44,F,writer,Boise,Idaho,"Birdcage, The (1996)",Comedy,Nathan Lane|Dianne Wiest|Robin Williams|Gene Hackman,Mike Nichols,3,dislike,1997-11-19 05:09:30
+436,30,25-34,F,administrator,Manchester,Pennsylvania,Mallrats (1995),Comedy,Shannen Doherty|Jason Lee|Jeremy London|Claire Forlani,Kevin Smith,3,dislike,1998-02-18 02:48:12
+500,28,25-34,M,administrator,Stanford,California,Pulp Fiction (1994),Crime|Drama,Tim Roth|John Travolta|Laura Lovelace|Samuel L. Jackson,Quentin Tarantino,5,like,1998-01-04 00:32:56
+918,40,35-44,M,scientist,New orleans,Louisiana,"Birdcage, The (1996)",Comedy,Nathan Lane|Dianne Wiest|Robin Williams|Gene Hackman,Mike Nichols,4,like,1998-04-07 22:28:43
+405,22,18-24,F,healthcare,New york,New york,Three Wishes (1995),Drama,Patrick Swayze|Seth Mumy|Mary Elizabeth Mastrantonio|Joseph Mazzello,Martha Coolidge,1,dislike,1998-01-23 09:51:34
+99,20,18-24,M,student,South county,Missouri,Braveheart (1995),Action|Drama|War,James Robinson|Sandy Nelson|Sean Lawlor|James Cosmo,Mel Gibson,5,like,1998-01-24 22:06:36
+709,21,18-24,M,other,Unknown,Unknown,Sudden Death (1995),Action,Jean-Claude Van Damme|Powers Boothe|Raymond J. Barry|Whittni Wright,Peter Hyams,3,dislike,1997-11-18 10:24:55
+407,29,25-34,M,engineer,Northwood,New hampshire,Nell (1994),Drama,Jodie Foster|Richard Libertini|Liam Neeson|Natasha Richardson,Michael Apted,4,like,1997-10-08 22:11:00
+58,27,25-34,M,programmer,Iowa city,Iowa,"Queen Margot (Reine Margot, La) (1994)",Drama|Romance,Jean-Hugues Anglade|Isabelle Adjani|Vincent Perez|Daniel Auteuil,Patrice Chéreau,5,like,1998-01-09 00:16:44
+854,29,25-34,F,student,Minneapolis,Minnesota,"Birdcage, The (1996)",Comedy,Nathan Lane|Dianne Wiest|Robin Williams|Gene Hackman,Mike Nichols,3,dislike,1997-12-22 17:53:39
+882,35,35-44,M,engineer,Lexington,Kentucky,Get Shorty (1995),Action|Comedy|Drama,Danny DeVito|Gene Hackman|Rene Russo|John Travolta,Barry Sonnenfeld,4,like,1997-11-18 15:48:38
+644,51,45-54,M,retired,Millcreek,Missouri,Broken Arrow (1996),Action|Thriller,John Travolta|Christian Slater|Samantha Mathis|Delroy Lindo,John Woo,4,like,1998-03-05 05:47:55
+429,27,25-34,M,student,Columbia,South carolina,Crimson Tide (1995),Drama|Thriller|War,Denzel Washington|Gene Hackman|Matt Craven|George Dzundza,Tony Scott,3,dislike,1997-12-17 19:29:26
+591,57,55-64,F,librarian,Unknown,Unknown,Get Shorty (1995),Action|Comedy|Drama,Danny DeVito|Gene Hackman|Rene Russo|John Travolta,Barry Sonnenfeld,4,like,1998-03-27 23:12:46
+573,68,65+,M,retired,Lansing,Michigan,Othello (1995),Drama,Irène Jacob|Laurence Fishburne|Kenneth Branagh|Nathaniel Parker,Oliver Parker,4,like,1998-01-26 19:43:37
+486,39,35-44,M,educator,Santa barbara,California,Nixon (1995),Drama,Ed Harris|Anthony Hopkins|Powers Boothe|Joan Allen,Oliver Stone,3,dislike,1997-11-18 17:44:29
+299,29,25-34,M,doctor,Saint louis,Missouri,Mighty Aphrodite (1995),Comedy,Woody Allen|Mira Sorvino|Rene Ceballos|George De La Pena,Woody Allen,4,like,1997-10-26 14:59:25
+416,20,18-24,F,student,Costa mesa,California,Boomerang (1992),Comedy|Romance,Eddie Murphy|Halle Berry|Robin Givens|David Alan Grier,Reginald Hudlin,4,like,1998-02-01 07:52:02
+527,33,25-34,M,librarian,Troy,New york,"Usual Suspects, The (1995)",Crime|Thriller,Gabriel Byrne|Stephen Baldwin|Benicio Del Toro|Kevin Pollak,Bryan Singer,4,like,1997-11-13 21:30:37
+916,27,25-34,M,engineer,Unknown,Unknown,"Shawshank Redemption, The (1994)",Drama,Tim Robbins|William Sadler|Bob Gunton|Morgan Freeman,Frank Darabont,5,like,1997-11-29 22:53:16
+870,22,18-24,M,student,Columbia,Missouri,Clueless (1995),Comedy,Alicia Silverstone|Paul Rudd|Brittany Murphy|Stacey Dash,Amy Heckerling,4,like,1997-10-01 04:22:48
+330,35,35-44,F,educator,Cypress gardens,Florida,Muppet Treasure Island (1996),Action|Adventure|Comedy|Musical|Thriller,Tim Curry|Billy Connolly|Jennifer Saunders|Kevin Bishop,Brian Henson,5,like,1997-10-11 04:42:33
+177,20,18-24,M,programmer,Philadelphia,Pennsylvania,Taxi Driver (1976),Drama|Thriller,Diahnne Abbott|Gino Ardito|Frank Adu|Victor Argo,Martin Scorsese,5,like,1997-11-21 16:45:58
+535,45,45-54,F,educator,Boulder,Colorado,Before Sunrise (1995),Drama|Romance,Andrea Eckert|Julie Delpy|Ethan Hawke|Hanno Pöschl,Richard Linklater,3,dislike,1997-11-15 18:25:38
